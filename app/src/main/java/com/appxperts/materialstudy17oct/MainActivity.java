@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
         ActionBar actionBar = getSupportActionBar();
         actionBar.setHomeAsUpIndicator(R.drawable.crouton_check);
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+        System.out.println("Some changes ");
     }
 
 
