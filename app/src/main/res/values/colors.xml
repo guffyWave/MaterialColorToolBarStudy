@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="primaryColor">#D32F2F</color>-->
+    <!--<color name="primaryColorDark">#B71C1C</color>-->
+    <!--<color name="accentColor">#FFD740</color>-->
+    <!--<color name="textColorPrimary">#3366FF</color>-->
+    <!--<color name="textColorSecondary">#6600CC</color>-->
+    <!--<color name="controlHighlightColor">#00FF40</color>-->
+    <!--<color name="controlActivatedColor">#12AB40</color>-->
+    <!--<color name="controlNormalColor">#AB00FF</color>-->
+    <!--<color name="switchThumbnailNormalColor">@android:color/darker_gray</color>-->
+    <!--<color name="switchThumbnailActivatedColor">#D32F2F</color>-->
+    <!--<color name="backColor">#AB0034</color>-->
+    <!--<color name="backColorCacheHint">#FF0066</color>-->
+
+    <color name="primaryColor">#D32F2F</color>
+    <color name="primaryColorDark">#B71C1C</color>
+    <color name="accentColor">@android:color/white</color>
+    <color name="textColorPrimary">#3366FF</color>
+    <color name="textColorSecondary">#6600CC</color>
+    <color name="controlHighlightColor">#00FF40</color>
+    <color name="controlActivatedColor">#FF3399</color>
+    <color name="controlNormalColor">#FF3300</color>
+    <color name="switchThumbnailNormalColor">#81F12F</color>
+    <color name="switchThumbnailActivatedColor">#D32F2F</color>
+    <color name="backColor">#FFFF34</color>
+    <color name="backColorCacheHint">@android:color/white</color>
+
+</resources>

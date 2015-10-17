@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="android:colorPrimary">@color/primaryColor</item>
+        <item name="android:colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="android:colorAccent">@color/accentColor</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:colorControlHighlight">@color/controlHighlightColor</item>
+        <item name="android:colorControlActivated">@color/controlActivatedColor</item>
+        <item name="android:colorControlNormal">@color/controlHighlightColor</item>
+        <item name="android:colorButtonNormal">@color/controlNormalColor</item>
+        <item name="android:windowBackground">@color/backColor</item>
+        <item name="android:colorBackgroundCacheHint">@color/backColorCacheHint</item>
+        <!--<item name="android:navigationBarColor">@color/primaryColorDark</item>-->
+    </style>
+
+</resources>
